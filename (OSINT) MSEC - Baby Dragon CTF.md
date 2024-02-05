@@ -14,6 +14,7 @@ Author: h1n4m
 Đề cho ta một file zip cần mật khẩu để giải nén, mình đã thử crack nhưng không được, chắc là do mình gà TvT Vậy hướng đi sẽ là tìm thông tin về `Kagami` chắc chắn sẽ có password ở đâu đó. Ban đầu mình đã nghĩ sẽ dễ dàng tìm ra tài khoản của người dùng này trên mxh nhưng không :)) Mình đã mất khá nhiều thời gian để có thể tìm thấy nó và tất cả là do Facebook ***
 
 Đây là tài khoản của người cần osint:
+https://www.facebook.com/k4g4m11
 
 <img width="1277" alt="Screenshot 2024-02-05 231344" src="https://github.com/vjz3r/CTF-WRITEUP/assets/83077449/05e9b0b5-36e1-4b0c-a783-b283411e4791">
 
