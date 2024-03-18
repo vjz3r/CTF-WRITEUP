@@ -1,8 +1,8 @@
-### WOLPHV II: Infiltrate
+## WOLPHV II: Infiltrate
 
 <img width="321" alt="Description" src="https://github.com/vjz3r/CTF-WRITEUP/assets/83077449/9db0740f-af5a-4ffc-8b36-12a0e9abf714">
 
-### Solution
+## Solution:
 
 Now what we need to do is to find another social media account of the WOLPHV group.
 
