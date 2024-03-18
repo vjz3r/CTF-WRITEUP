@@ -1,8 +1,8 @@
-### WOLPHV I: Reconnaissance
+## WOLPHV I: Reconnaissance
 
 <img width="320" alt="Screenshot 2024-03-18 111523" src="https://github.com/vjz3r/CTF-WRITEUP/assets/83077449/2da2d5f3-be5c-42d9-9c91-3675b182c639">
 
-### Solution
+## Solution:
 
 As the title, flags found on the web are all fake flags. But I'll list them here anyway :v
 
