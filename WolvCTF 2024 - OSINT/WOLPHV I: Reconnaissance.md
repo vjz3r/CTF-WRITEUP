@@ -22,7 +22,7 @@ Hmmm reading the information in the "About Us" section also provides a lot of us
 ![Search_by_aboutus](https://github.com/vjz3r/CTF-WRITEUP/assets/83077449/c2b71b7e-57ca-42cc-b94e-f3c37f118d6d)
 https://thecyberexpress.com/new-wolphv-ransomware-group-on-the-dark-web
 
-Accessing the article, we immediately have the Twitter account name of this group: ``wolphvgroup``
+Accessing the article, we immediately have the Twitter account name of this group: ``wolphvgroup``.
 At first, I didn't pay much attention to it because in the title, there was a note:
 
 ``NOTE: Wolphv's Twitter/X account and https://wolphv.chal.wolvsec.org/ are out of scope for all these challenges. Any flags found from these are not a part of these challenges`` 
