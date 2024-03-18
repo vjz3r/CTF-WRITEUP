@@ -9,4 +9,5 @@ This is the Flag:
 
 <img width="611" alt="Screenshot 2024-03-18 111438" src="https://github.com/vjz3r/CTF-WRITEUP/assets/83077449/478a7512-a459-4f69-b7c7-961c66dfda8b">
 
+
 `wctf{h41L_t0_th3_v1ct0rs_v4l14nt_h41L_t0_tH3_c0Nqu3r1nG_h3r035}`
