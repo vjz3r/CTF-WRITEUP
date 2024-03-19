@@ -50,7 +50,7 @@ Searching for "Subway" in Collingwood, Ontario, I found only 2 stores, and I fou
 
 <img width="1028" alt="subway_and_mcdonald" src="https://github.com/vjz3r/CTF-WRITEUP/assets/83077449/5fafbd1f-ab97-4cb7-bee1-ac9db2904e02">
 
-There is still one missing data: ``nathan-rizz-blog67945``
+There is still one missing: ``nathan-rizz-blog67945``
 Cuz I didn't have it so I guessed the result and accidentally found the right place is: ``King George Apartments``
 
 <img width="838" alt="King_George_Apartments" src="https://github.com/vjz3r/CTF-WRITEUP/assets/83077449/36808fac-c2e8-4c71-aee7-16246d3515cc">
