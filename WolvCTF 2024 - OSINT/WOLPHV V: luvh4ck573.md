@@ -14,6 +14,7 @@ Searching for this guy's name, I found his Tinder account: https://tinder.com/@l
 
 Looking at it I knew it was a username, but I didn't know which social media platform it belonged to. 
 I felt very stuck, but then I tried a different approach to searching, and I found something interesting on YouTube:
+
 <kbd><img width="430" alt="search_youtube" src="https://github.com/vjz3r/CTF-WRITEUP/assets/83077449/11ef9241-0a78-4075-84ac-23585b56287c"></kbd>
 <kbd><img width="430" alt="search_ytb_2" src="https://github.com/vjz3r/CTF-WRITEUP/assets/83077449/7f7625a2-6879-4f91-a72d-c0b0b2acdf11"></kbd>
 
