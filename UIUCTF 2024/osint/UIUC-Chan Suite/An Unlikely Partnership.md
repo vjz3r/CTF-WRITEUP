@@ -3,7 +3,7 @@
 <img width="443" alt="An Unlikely Partnership" src="https://github.com/vjz3r/CTF-WRITEUP/assets/83077449/6c4fdaca-8149-4abc-8755-b1197d876b25">
 
 ## Solution:
-Continuing with the challenge ``Hip With the Youth``, we get a LinkedIn link attached to the Threads profile:
+Continuing with the challenge ``Hip With the Youth``, I got a LinkedIn link attached to the Threads profile:
 
 <img src="https://github.com/vjz3r/CTF-WRITEUP/assets/83077449/eda376c3-d97a-466b-8b0d-6e31523e5f16" width="460">
 
