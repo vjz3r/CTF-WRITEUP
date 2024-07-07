@@ -23,9 +23,10 @@ I found the flag in the ``Friend Activity section`` on the Spotify app:
 
 ### Flag: ``uiuctf{7rU1Y_50N65_0F_7H3_5UMM3r_432013}``
 
-***Bonus**
+## Postscript:
 <br>I really appreciate the author's idea ＼（〇_ｏ）／
 <br>After discovering it, you realized the author had left a hint about it on LinkedIn that you hadn't noticed. This shows how crucial a deep understanding of applications in OSINT can be:
+
 <img width="589" alt="Screenshot 2024-07-02 020620" src="https://github.com/vjz3r/CTF-WRITEUP/assets/83077449/9b211505-c8ca-498e-8b00-ef25ff76e1d4">
 
 
