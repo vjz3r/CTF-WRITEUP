@@ -25,3 +25,15 @@ Checking on Google Maps, I see a long building in the corner of the airport near
 <br>Using Google Street View, I'm quite sure I've found the right place.
 <img width="1000" alt="Screenshot 2024-07-07 022113" src="https://github.com/vjz3r/CTF-WRITEUP/assets/83077449/af16bcb3-bb66-40b2-8542-65997403c2cb">
 
+ We need to find the coordinates of the aircraft. In the picture, we can see the airplane right next to the ``PROLOGIS`` warehouse, so we will have the flag as:
+ 
+ <img width="383" alt="flag" src="https://github.com/vjz3r/CTF-WRITEUP/assets/83077449/128c1892-5ba8-4a25-96e5-ff9ac0aef7fc">
+
+### Flag: ``uiuctf{Boeing C-17 Globemaster III, 47.462, -122.303}``
+
+## Postscript:
+During the CTF, with some magical ability, I thought the airport I found with Google Lens wasn't the correct one `(╯°□°）╯︵ ┻━┻`
+<br>So I kept searching, and I accidentally found a faster way to solve this challenge LOL
+<br>**`I'll prioritize this way because sometimes we may not get the desired results when selecting the wrong search area in Google Lens, even just a little.`**
+<br>Just search for Alaska Airlines and read the information on Wikipedia:
+<img width="965" alt="Screenshot 2024-07-07 111802" src="https://github.com/vjz3r/CTF-WRITEUP/assets/83077449/08c7846c-fa41-4904-99fc-c2ea83764e77">
